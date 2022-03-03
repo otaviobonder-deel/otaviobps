@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=otaviobps" alt="otaviobps" /></a> </p>
 
-- 🔭 I’m currently working at **Deel**
+- 🔭 I’m currently working at [**Deel**](https://www.letsdeel.com/)
 
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently learning [**Solidity**](https://soliditylang.org/)
 
-- 📫 How to reach me **otaviobonder@gmail.com**
+- 📫 How to reach me [**otaviobonder@gmail.com**](mailto:otaviobonder@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
