@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Otavio</h1>
-<h3 align="center">Software engineer at Deel</h3>
+<h3 align="center">Team Lead at Deel</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=otaviobps&label=Profile%20views&color=0e75b6&style=flat" alt="otaviobps" /> </p>
 
